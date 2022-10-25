@@ -3,4 +3,7 @@ The code in the repository consist of an Infrastructure as a Code tool  called T
 
  Download Terraform: https://www.terraform.io/downloads.html
  
- One needs to setup an AWS account
+Setup an AWS account
+So for that go to aws.amazon.com
+Fill in the crediantials/Create your account if you dont have one.
+
