@@ -9,3 +9,5 @@ Fill in the crediantials/Create your account if you dont have one.
 
 For secret key and access key
 Go to profile name -> my security crediantials
+
+To access a given web server one would have to ssh into that IP address, if one is a windows user one will need to use Putty and Putty Gen. Download the pem and ppk files from aws console -> ec2 -> generate keys. 
